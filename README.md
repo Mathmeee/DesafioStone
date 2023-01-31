@@ -27,3 +27,5 @@ docker run -d --name dd-agent -v /var/run/docker.sock:/var/run/docker.sock:ro -v
 Após isso, clique em finalizar e ele irá redirecionar para o painel do datadog.
 
 Seria possível criar um dashboard bem detalhado do container, mas o datadog já fornece um dashboard bem completo por default do docker na aba dashboards "Docker - Overview" e "Containers - Overview".
+
+![Alt text](img/printdashboard.PNG?raw=true "docker ps")
