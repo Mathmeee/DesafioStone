@@ -8,6 +8,8 @@
 
 ### Paara fazer o deploy no docker use o seguinte comando: "docker-compose up -d"
 
+![Alt text](img/Dockerps.PNG?raw=true "docker ps")
+
 ## Observability
 
 ### para fazer o monitoramento do container docker irei utilizar datadog
