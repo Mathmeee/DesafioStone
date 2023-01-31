@@ -8,3 +8,4 @@ RUN python3 -m pip install datetime
 WORKDIR /app
 COPY . /app 
 CMD ["python3", "app.py"]
+
